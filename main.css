@@ -49,3 +49,9 @@ button:hover {
     display: none;
 }
 
+.failure {
+    background-color: #f30808;
+    padding: 16px;
+    color: #fff;
+    display: none;
+}
